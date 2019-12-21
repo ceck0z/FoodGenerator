@@ -1,0 +1,9 @@
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\bin\Debug\Dashboard.exe
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\bin\Debug\Dashboard.pdb
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\obj\Debug\Dashboard.DashboardForm.resources
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\obj\Debug\Dashboard.exe
+D:\Projects\CSharpProjects\Windows Platform Applications\FoodGenerator\Dashboard\obj\Debug\Dashboard.pdb
